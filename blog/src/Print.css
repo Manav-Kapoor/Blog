@@ -1,0 +1,8 @@
+.blog{
+    animation-name: mymove;
+    animation-duration: 1s;
+}
+@keyframes mymove{
+    from{opacity: 0;}
+    to{opacity: 1;}
+}
